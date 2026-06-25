@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am fast learner
+I am fast learner 
+<br>
 I have a passion towards coding
+<br>
 I am eager to learn new things
 
 ## 🌐 Socials:
